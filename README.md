@@ -9,10 +9,10 @@ The purpose of these two sources of randomness is to decrease the variance of th
 
 ### Classification metrics
 
-Accuracy score:   0.9091
-Precision score:  0.5139
-Recall score:     0.7400
-F1-score:         0.6066
+Accuracy score:   0.9091 
+Precision score:  0.5139 
+Recall score:     0.7400 
+F1-score:         0.6066 
 
 Confusion matrix:
 
@@ -20,5 +20,3 @@ Confusion matrix:
 |-----|--------------------|--------------------|
 |Actual Negative |        443         |         35          |
 |Actual Positive |         13         |         37          |
-
-
