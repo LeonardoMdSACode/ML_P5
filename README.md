@@ -20,3 +20,5 @@ Confusion matrix:
 |-----|--------------------|--------------------|
 |Actual Negative |        443         |         35          |
 |Actual Positive |         13         |         37          |
+
+[1] - https://scikit-learn.org/stable/modules/ensemble.html#id5
